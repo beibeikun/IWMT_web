@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/iwmt_front.iml" filepath="$PROJECT_DIR$/iwmt_front.iml" />
       <module fileurl="file://$PROJECT_DIR$/iwmt_web.iml" filepath="$PROJECT_DIR$/iwmt_web.iml" />
     </modules>
   </component>
